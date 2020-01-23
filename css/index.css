@@ -263,6 +263,10 @@ footer p {
     .logo-container {
         margin:4% auto;
     }
+
+    .lm-btn{
+        height: 10%;
+    }
 }
 
 

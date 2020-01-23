@@ -360,6 +360,10 @@ header.home-header {
         justify-content: space-between;
     }
 
+    .lm-btn{
+        height: 10%;
+    }
+
     /** Home page **/
 #home-content-1 {
     margin: 0;
